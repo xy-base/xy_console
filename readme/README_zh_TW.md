@@ -22,6 +22,7 @@
 
 ## 安装
 ```bash
+# bash
 pip install xy_console
 ```
 

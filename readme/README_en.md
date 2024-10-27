@@ -24,6 +24,7 @@ Easy Python console tool wrappers
 ## Install
 
 ```bash
+# bash
 pip install xy_console
 ```
 
