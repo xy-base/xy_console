@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
-__author__ = '余洋'
-__doc__ = 'utils'
-'''
+__author__ = "余洋"
+__doc__ = "utils"
+"""
   * @File    :   utils.py
   * @Time    :   2023/06/03 22:23:42
   * @Author  :   余洋
@@ -9,9 +9,11 @@ __doc__ = 'utils'
   * @Contact :   yuyangit.0515@qq.com
   * @License :   (C)Copyright 2019-2024, Ship of Ocean
   * @Desc    :   None
-'''
-
+"""
+import os
 from rich.console import Console
+
+terminal_size = os.get_terminal_size()
 
 xy_c = Console()
 xy_p = xy_c.print
@@ -24,7 +26,7 @@ _error = "bold #ff4500"
 _red = "bold red"
 _green = "bold green"
 _blue = "bold blue"
-_seperate_text = "\n======================================\n"
+_seperate_text = f"\n{'='*terminal_size.columns}\n"
 
 
 def inputt(

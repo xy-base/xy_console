@@ -1,16 +1,8 @@
-<!--
- * @Author: yuyangit yuyangit.0515@qq.com
- * @Date: 2024-10-18 19:48:48
- * @LastEditors: yuyangit yuyangit.0515@qq.com
- * @LastEditTime: 2024-10-18 19:51:32
- * @FilePath: /xy_console/README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # xy_console
 
-- [简体中文](readme/README_zh_CN.md)
-- [繁体中文](readme/README_zh_TW.md)
-- [English](readme/README_en.md)
+- [简体中文](README.md)
+- [繁體中文](readme/README.zh-hant.md)
+- [English](readme/README.en.md)
 
 # 说明
 简单Python控制台输入输出工具封装.
@@ -44,7 +36,10 @@ print_w("hello world")
 print_r("hello world")
 # 打印运行(error)
 print_e("hello world")
+
 ```
+
+![运行结果](./readme/image.png)
 
 ## 许可证
 xy_console 根据 <木兰宽松许可证, 第2版> 获得许可。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
@@ -57,7 +52,6 @@ xy_console 根据 <木兰宽松许可证, 第2版> 获得许可。有关详细�
 
 
 ## 联系方式
-
 ```
 微信: yuyangiit
 邮箱: yuyangit.0515@qq.com
