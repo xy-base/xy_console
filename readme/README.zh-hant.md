@@ -1,17 +1,16 @@
 # xy_console
 
-- [简体中文](../README.md)
-- [繁體中文](README.zh-hant.md)
-- [English](README.en.md)
+| [简体中文](../README.md)         | [繁體中文](./README.zh-hant.md)        |                      [English](./README.en.md)          |
+| ----------- | -------------|---------------------------------------|
 
 # 说明
 简单Python控制台输入输出工具封装.
 
 ## 程式碼庫
 
-- <a href="https://github.com/xy-base/xy_console.git" target="_blank">Github位址</a>  
-- <a href="https://gitee.com/xy-opensource/xy_console.git" target="_blank">Gitee位址</a>  
-- <a href="https://gitcode.com/xy-opensource/xy_console.git" target="_blank">GitCode位址</a>  
+| [Github](https://github.com/xy-base/xy_console.git)         | [Gitee](https://gitee.com/xy-opensource/xy_console.git)        |                      [GitCode](https://gitcode.com/xy-opensource/xy_console.git)          |
+| ----------- | -------------|---------------------------------------|
+
 
 ## 安装
 ```bash
