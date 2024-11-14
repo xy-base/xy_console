@@ -10,10 +10,10 @@ __doc__ = "utils"
   * @License :   (C)Copyright 2019-2024, Ship of Ocean
   * @Desc    :   None
 """
-import os
+import shutil
 from rich.console import Console
 
-terminal_size = os.get_terminal_size()
+terminal_size = shutil.get_terminal_size(fallback=(120, 50))
 
 xy_c = Console()
 xy_p = xy_c.print
